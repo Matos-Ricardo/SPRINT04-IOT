@@ -1,9 +1,13 @@
 🚀 Challenge-Mobile-main: Plataforma de Análise Financeira XPEste projeto simula o fluxo de autenticação e segurança (2FA) de uma plataforma financeira, utilizando React Native, Expo Router e verificação biométrica facial obrigatória.
 
 KAYKY - 99756
+
 FELIPE - 98595
+
 PAULO - 551137
+
 LEONARDO - 99902
+
 RICARDO - 95906
 
 🛡️ Objetivo e Fluxo de SegurançaO objetivo é implementar e demonstrar um fluxo de Autenticação em Duas Etapas (2FA) forçada, garantindo que o usuário passe pela senha e, em seguida, pela biometria, antes de acessar o conteúdo principal.Conexão do Reconhecimento Facial 
